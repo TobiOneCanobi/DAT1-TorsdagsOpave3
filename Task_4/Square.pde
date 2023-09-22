@@ -15,6 +15,6 @@ class Square
   {
     fill(175);
     stroke(0);
-    square(xposition, yposition, 100);
+    square(xposition, yposition, 75);
   }
 }

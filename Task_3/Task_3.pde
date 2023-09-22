@@ -11,5 +11,5 @@ String[] topArtistSongs = {"Spectre", "Devil Doesn't Bargin", "Wake Me Up", "Cen
 
 for(int i = 0; i < topArtistSongs.length; i++)
 {
-  println(i + ". " + topArtistArray[i] + " : \"" + topArtistSongs[i] + "\"");
+  println(i+1 + ". " + topArtistArray[i] + " : \"" + topArtistSongs[i] + "\"");
 }
